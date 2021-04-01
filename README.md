@@ -1,6 +1,6 @@
 # Refined-cora-citeseer
 
-Refined cora & citeseer dataset mentioned in https://arxiv.org/abs/1907.02237 
+Refined cora & citeseer dataset mentioned in https://arxiv.org/abs/1907.02237 （continuous features with duplication and self-loops removed)
 
 Suggestion split:
 
